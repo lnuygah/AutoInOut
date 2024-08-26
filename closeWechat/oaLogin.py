@@ -59,8 +59,6 @@ def click_button_and_handle_popup(driver, button_xpath, popup_xpath, button_name
     except Exception as e:
         logging.error(f"点击 {button_name} 按钮时出现异常: {e}")
 
-print(ChromeDriverManager().install())  # 打印 driver 的路径
-
 # 初始化WebDriver
 # driver = webdriver.Chrome(ChromeDriverManager().install())
 # 使用 Service 对象传递 ChromeDriver 路径
