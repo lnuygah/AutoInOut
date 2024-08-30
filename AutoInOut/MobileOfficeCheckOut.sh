@@ -4,4 +4,4 @@ conda info --envs
 
 conda activate autoInOut
 
-python3 /Users/chensibin/AutoInOut/closeWechat/oaLogin.py
+python3 /Users/chensibin/AutoInOut/closeWechat/MobileOfficeCheckOut.py
