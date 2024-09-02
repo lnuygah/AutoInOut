@@ -4,4 +4,4 @@ conda info --envs
 
 conda activate autoInOut
 
-python3 /Users/chensibin/AutoInOut/closeWechat/MealCheckInAndOut.py
+python3 /Users/chensibin/AutoInOut/AutoInOut/MealCheckInAndOut.py
